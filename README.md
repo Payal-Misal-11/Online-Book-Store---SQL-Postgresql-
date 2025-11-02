@@ -1,5 +1,5 @@
-# Online-Book-Store-SQL-Postgresql
-📌 SQL Project – Online Bookstore Analysis
+# Online Book Store-SQL-Postgresql
+📌 SQL Project – Online Books store Analysis
 
 I recently completed an SQL Data Analysis Project where I worked with an Online Bookstore dataset.
 
